@@ -1,0 +1,82 @@
+html{
+    color: #A67C00;
+}
+
+
+body{
+    background-color: #703030;
+    color: #A67C00;
+}
+
+.nav-item{
+    color: #A67C00;
+   
+}
+
+
+section{
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+
+}
+
+input{
+    padding-bottom: 1rem;
+    margin-bottom: 10px;
+}
+
+
+.row p {
+    font-size: 1rem;
+}
+.row img{
+    margin-top: 60px;
+}
+
+
+
+.card{
+    width: 20%;
+    float: left;
+    margin: 10px;
+}
+
+.card img {
+  
+margin-top: 10px;
+   
+}
+
+.card p {
+    font-size: 0.7rem;
+   
+}
+
+.col-md-7.col-sm-12 
+{
+    width: 50%;
+}
+
+.carousel
+{
+    width: 50%;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+.form-check{
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.imagemcad{
+    float: right;
+    width: 50%;
+    margin-top: 15px;
+}
+
+#formulario{
+    width: 50%;
+}
